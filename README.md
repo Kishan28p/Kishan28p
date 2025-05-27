@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
 - 🌱 Python fullstack Web Developer!
 
-- 📫 How to reach me **kishankumarp228@gamil.com**
+- 📫 Get in touch: ** kishankumarp228@gmail.com **
 
 
 
