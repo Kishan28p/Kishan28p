@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
-- 🌱 I’m currently learning Machine Learning , Statistics
+- 🌱 Python fullstack Web Developer!
 
 - 📫 How to reach me **kishankumarp228@gamil.com**
 
