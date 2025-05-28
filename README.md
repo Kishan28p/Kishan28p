@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
-- 🌱 Python fullstack Web Developer!
+- 🌱 Python fullstack Developer!
 
 - 📫 Get in touch: **kishankumarp228@gmail.com**
 
